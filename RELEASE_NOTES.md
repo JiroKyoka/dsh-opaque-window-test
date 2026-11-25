@@ -6,7 +6,7 @@
 
 ### 附件
 
-- **DSH Opaque Window Test.zip**：现有 ZIP 压缩包。
+- **DSH.Opaque.Window.Test.zip**：现有 ZIP 压缩包。
 - **DSH-Opaque-Window-Test-macOS-x64.app.tar.gz**：`.app` 程序目录包的归档。
 - **SHA256SUMS.txt**：上述两个附件的 SHA-256 校验值。
 
