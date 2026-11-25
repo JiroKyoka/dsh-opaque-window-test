@@ -8,7 +8,7 @@
 
 请在本仓库的 **Releases** 页面下载，两个附件包含同一测试版程序，任选一个即可：
 
-- `DSH Opaque Window Test.zip`：现有 ZIP 压缩包，解压后得到 `.app` 程序。
+- `DSH.Opaque.Window.Test.zip`：现有 ZIP 压缩包，解压后得到 `.app` 程序。
 - `DSH-Opaque-Window-Test-macOS-x64.app.tar.gz`：程序目录包的归档，解压后得到同一 `.app` 程序；保留可执行权限与符号链接。
 
 `.app` 在 macOS 中看起来是一个程序文件，实际是目录包，因此需要归档后作为 Release 附件提供。程序本体较大，下载附件放在 Releases 中。
