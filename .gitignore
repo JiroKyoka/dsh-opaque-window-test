@@ -1,0 +1,5 @@
+*.zip
+*.tar.gz
+*.dmg
+*.app/
+SHA256SUMS.txt
